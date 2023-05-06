@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lumeland.github.io/base-blog/sitemap.xml
